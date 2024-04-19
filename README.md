@@ -1,2 +1,3 @@
 # GAS_progate_lecture
-first commitment
+first step lecture
+
